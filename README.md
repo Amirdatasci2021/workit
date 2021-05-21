@@ -1,0 +1,2 @@
+# workit
+overview: This simple program uses python's docx library to replace a template and to create an intuitive and decisive coverl etter building tool.  There are document variables things such as the header or the closing There are user defined variables from inputs There are randomized variables that are selected from list and predefined dictionary based text There is also static text that help shape the cover letter.
